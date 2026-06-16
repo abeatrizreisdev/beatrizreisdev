@@ -1,41 +1,41 @@
-# Olá, eu sou a Ana Beatriz Reis Alves 👋
-
-### 👩‍💻 Full Stack Developer | Liderança Técnica | Infra & Redes
-
-Sou Desenvolvedora Full Stack com sólida experiência no ciclo de desenvolvimento de produtos digitais, sistemas distribuídos e infraestrutura de alta disponibilidade. Atuo na liderança técnica da **Techbase** e na coordenação de TI da **SEMAS**, focando em alinhar engenharia de software aos objetivos de negócio.
-
-Graduanda em Análise e Desenvolvimento de Sistemas e Técnica em Redes pelo **IF Baiano**, combino expertise em desenvolvimento de software com uma forte base em infraestrutura, redes e segurança da informação.
-
----
-
-### 🚀 Tecnologias e Ferramentas
-
-Aqui estão as principais tecnologias que utilizo para construir soluções robustas, escaláveis e intuitivas:
-
-<div id="badges">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/VMware-6053A2?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+<div align="center">
+  <h1>Olá, eu sou a Ana Beatriz Reis Alves 👋</h1>
+  <p><b>Full Stack Developer | Liderança Técnica | Infra & Redes | IT Support</b></p>
+  <p><i>Sou Desenvolvedora Full Stack com sólida experiência no ciclo de desenvolvimento de produtos digitais, sistemas distribuídos e infraestrutura de alta disponibilidade.</i></p>
 </div>
 
 ---
 
-### 💻 No que estou trabalhando atualmente?
+### 🚀 Stack de Tecnologia e Ferramentas
 
-* **CicatribioVET & App Mangaba:** Desenvolvimento de arquiteturas baseadas em microsserviços, integração de APIs de Inteligência Artificial para diagnósticos veterinários, automação de notificações push com cron jobs e dashboards de produtividade agrícola.
-* **Projeto SISCOST (Bolsista CNPq):** Desenvolvimento full-stack de um sistema web (Next.js) e mobile (React Native) para Gestão de Ambientes Costeiros, transformando requisitos científicos em interfaces funcionais de alto desempenho.
-* **GCM Serviços Integrados (CEPEDI/MCTI):** Liderança e desenvolvimento de módulos de controle financeiro com Ruby, além de automação de pós-venda e lembretes via WhatsApp.
-* **Techbase:** Como Fundadora & CEO, lidero a execução técnica de sistemas sob medida e configurações avançadas de redes e servidores para empresas.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,ruby,rails,php,laravel&theme=dark" alt="Tech Stack" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,vmware,git,github,vscode,figma&theme=dark" alt="Tools & Infra" />
+</div>
+
+---
+
+### 💼 Experiência Profissional & Liderança
+
+* **Techbase** | *Fundadora & CEO* (maio de 2025 - Presente)
+  * Liderança técnica e gestão de negócios, integrando infraestrutura e desenvolvimento de software sob medida (Node.js, React, MySQL) para empresas e usuários finais.
+* **Prefeitura Municipal de Catu - SEMAS** | *Coordenadora de Tecnologia da Informação* (novembro de 2025 - Presente)
+  * Liderança da estratégia de TI e supervisão da alta disponibilidade de servidores, redes e virtualização (VMware) para os 9 equipamentos da Secretaria, além de coordenação de logística tecnológica em eventos institucionais.
+  * *Atuações anteriores na SEMAS:* Assistente Técnico (gestão de ativos, suporte avançado e administração VMware) e Estagiária (gestão de dados e rotinas administrativas).
+* **dtech Treinamentos** | *Professor de Informática* (abril de 2026 - Presente)
+  * Capacitação de alunos em letramento digital, segurança em nuvem e produtividade computacional (Pacote Office focado em cenários reais de mercado).
+* **Instituto Federal Baiano (IF Baiano)** | *Monitoria de Algoritmos e Pensamento Computacional* (abril de 2026 - Presente)
+  * Suporte pedagógico focado nos pilares do Pensamento Computacional utilizando dinâmicas "desplugadas" e orientação técnica em laboratório para algoritmos e lógica de programação.
+
+---
+
+### 💻 Ecossistemas e Projetos em Desenvolvimento
+
+* **CicatribioVET (Saúde Animal & IA):** Refatoração de backend em Node.js com modelagem multi-tabela no MySQL para acesso seguro a prontuários e integração de APIs de Inteligência Artificial para diagnósticos automatizados.
+* **App Mangaba (Automação Agrícola):** Projeto e implementação de módulos de notificações push integrados ao Node.js com cron jobs para alertas de ciclos de colheita e dashboards de produtividade mensal.
+* **Projeto SISCOST (Bolsista CNPq):** Desenvolvimento full-stack de plataforma Web (Next.js) e Mobile (React Native) para Gestão de Ambientes Costeiros, transformando requisitos científicos em uma arquitetura funcional de alto desempenho.
+* **GCM Serviços Integrados (CEPEDI/MCTI - Residente Tecnológica):** Desenvolvimento full-stack de sistema de gestão utilizando Ruby, implementando módulos de controle financeiro, inventário de máquinas e automação de pós-venda via WhatsApp.
 
 ---
 
@@ -43,37 +43,50 @@ Aqui estão as principais tecnologias que utilizo para construir soluções robu
 
 * **1º Lugar** na categoria Desenvolvimento Tecnológico – FEMMIC 2026 🥇
 * **2º Lugar** na categoria Desenvolvimento Tecnológico – FEMMIC 2026 🥈
-* **Certificado de Submissão** – 4ª Tenda da Ciência (Ciência Itinerante & Robótica | Projeto SISCOST) 🔬
+* **Certificado de Submissão** – 4ª Tenda da Ciência (Ciência Itinerante & Robótica) 🔬
+* **Certificado de Submissão** – 4ª Tenda da Ciência (Ranking das Praias de Salvador - Gestão Costeira) 🗺️
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas e Desempenho
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abeatrizreisdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeatrizreisdev&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=abeatrizreisdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" />
+      </td>
+      <td align="center" valign="top">
+        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeatrizreisdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abeatrizreisdev&theme=tokyonight&hide_border=true&background=00000000" alt="Streak de Commits" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abeatrizreisdev&theme=tokyonight" alt="Streak de Commits" />
-</p>
+---
 
-#### 📈 Resumo de Contribuições
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abeatrizreisdev&theme=tokyonight" alt="Resumo de Contribuições" width="100%" />
-</p>
+### 🎓 Formação
+
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas** – IF Baiano (Conclusão em 2026)
+* **Técnico em Redes de Computadores** – IF Baiano (Conclusão em 2026)
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-Seja para discutir novos projetos, desenvolvimento full-stack ou governança de TI, sinta-se à vontade para entrar em contato:
+<div align="center">
+  <a href="https://www.linkedin.com/in/abeatrizreis" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:beatrizreisdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-* **LinkedIn:** [linkedin.com/in/abeatrizreis](https://www.linkedin.com/in/abeatrizreis)
-* **E-mail:** [beatrizreisdev@gmail.com](mailto:beatrizreisdev@gmail.com)
+<br>
 
----
-
-<p align="center">
+<div align="center">
   <i>"Garantir que a tecnologia seja uma facilitadora, eliminando falhas e entregando soluções intuitivas e eficientes para o usuário final."</i> 💡
-</p>
+</div>
