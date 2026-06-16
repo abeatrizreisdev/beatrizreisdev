@@ -9,9 +9,25 @@
 ### 🚀 Stack de Tecnologia e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,ruby,rails,php,laravel&theme=dark" alt="Tech Stack" />
+  <!-- Linguagens principais -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,vmware,git,github,vscode,figma&theme=dark" alt="Tools & Infra" />
+  <!-- Frameworks e Bibliotecas -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <br><br>
+  <!-- Ferramentas e Infra -->
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/VMware-6053A2?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
@@ -53,15 +69,18 @@
 <div align="center">
   <table border="0">
     <tr>
+      <!-- Card Geral de Commits e Commits Privados -->
       <td align="center" valign="top">
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=abeatrizreisdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=abeatrizreisdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
       </td>
+      <!-- Card Mapeamento Dinâmico de Linguagens por % de Uso -->
       <td align="center" valign="top">
-        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeatrizreisdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeatrizreisdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Linguagens mais usadas" />
       </td>
     </tr>
   </table>
   <br>
+  <!-- Métrica de Constância e Dias Seguidos (Streak) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abeatrizreisdev&theme=tokyonight&hide_border=true&background=00000000" alt="Streak de Commits" />
 </div>
 
