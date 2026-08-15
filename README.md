@@ -88,8 +88,8 @@
 
 ### 🎓 Formação
 
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas** – IF Baiano (Conclusão em 2026)
-* **Técnico em Redes de Computadores** – IF Baiano (Conclusão em 2026)
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas** – IF Baiano (Concluído em 2026)
+* **Técnico em Redes de Computadores** – IF Baiano (Conclusão em 2027)
 
 ---
 
